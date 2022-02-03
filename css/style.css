@@ -1,0 +1,24 @@
+@import "null.css";
+
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap");
+
+body{
+    font-family: lato;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1,6;
+}
+h1{
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 1,3;
+}
+.abaut {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1,5;
+}
+.item{
+    text-indent: 25px;
+}
